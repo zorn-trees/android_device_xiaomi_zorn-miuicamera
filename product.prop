@@ -1,0 +1,10 @@
+# MiuiCamera
+ro.mi.os.version.code=3
+ro.mi.os.version.incremental=OS3.0.304.0.WOKMIXM
+ro.mi.os.version.name=OS3.0
+ro.miui.build.region=global
+ro.miui.notch=1
+ro.miui.ui.version.code=816
+ro.miui.ui.version.name=V816
+ro.product.marketname=POCO F7 Pro
+ro.product.mod_device=zorn_global
