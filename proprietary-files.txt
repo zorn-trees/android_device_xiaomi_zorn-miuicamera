@@ -6,5 +6,5 @@ system_ext/etc/permissions/miui-cameraopt.xml
 system_ext/framework/miui-cameraopt.jar
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so
 system_ext/lib64/libcamera_mianode_jni.xiaomi.so
-system_ext/lib64/libcameraopt.so
+system_ext/lib64/libcameraopt.so;MODULE_SUFFIX=_miuicamera
 system_ext/lib64/libcameraopt_jni.so
