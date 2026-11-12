@@ -8,6 +8,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/permissions/privapp-permissions-miuicamera.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-miuicamera.xml \
     $(LOCAL_PATH)/configs/sysconfig/hiddenapi-package-allowlist-miuicamera.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/hiddenapi-package-allowlist-miuicamera.xml
 
+# Shims
+PRODUCT_PACKAGES += \
+    libprocessgroup_shim_miuicamera
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
