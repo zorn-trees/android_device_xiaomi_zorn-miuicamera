@@ -1,0 +1,3 @@
+allow priv_app_36 hal_aidlbgservice_service:service_manager find;
+binder_call(priv_app_36, hal_aidlbgservice)
+binder_call(hal_aidlbgservice, priv_app_36)
