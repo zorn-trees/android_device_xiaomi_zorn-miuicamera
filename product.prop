@@ -8,3 +8,4 @@ ro.miui.ui.version.code=816
 ro.miui.ui.version.name=V816
 ro.product.marketname=POCO F7 Pro
 ro.product.mod_device=zorn_global
+persist.vendor.camera.privapp.list=com.android.camera
